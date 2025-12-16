@@ -1,0 +1,24 @@
+{
+  "name": "gdg-nodetrack-hayat-musema-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1(part2).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hayat-Musema/GDG-NodeTrack-Hayat-Musema-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Hayat-Musema/GDG-NodeTrack-Hayat-Musema-/issues"
+  },
+  "homepage": "https://github.com/Hayat-Musema/GDG-NodeTrack-Hayat-Musema-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
