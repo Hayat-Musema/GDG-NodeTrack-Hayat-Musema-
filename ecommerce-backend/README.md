@@ -105,7 +105,7 @@ ecommerce-backend/\
 1. **Clone repository**
 
 ```
-git clone <https://github.com/Hayat-Musema/GDG-NodeTrack-Hayat-Musema-/ecommerce-backend>
+git clone <https://github.com/Hayat-Musema/GDG-NodeTrack-Hayat-Musema-/tree/main/ecommerce-backend>
 ```
 2.**Install Dependencies**
 ```
