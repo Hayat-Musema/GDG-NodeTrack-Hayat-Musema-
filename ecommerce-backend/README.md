@@ -130,7 +130,7 @@ Test Products, Cart, Orders endpoints
 ---
 **Notes**
 
--Postman collection has all endpoints organized into folders:
+-Postman collection (`docs/Ecommerce-backend-API.postman_collection.json`) has all endpoints organized into folders:
 -Products
 -Cart
 -Orders
